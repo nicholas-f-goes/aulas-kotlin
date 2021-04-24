@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Driehoekige knoppies "</string>
+    <string name="rosa">" opgestaan ​​het"</string>
+    <string name="indigo">indigo</string>
+    <string name="azul">" blou"</string>
+    <string name="verde">groen</string>
+    <string name="amarelo">geel</string>
+    <string name="laranja">oranje</string>
+    <string name="vermelho">rooi</string>
+    <string name="ativar_o_windows">vensters aktiveer</string>
+</resources>

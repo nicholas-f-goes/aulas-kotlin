@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/black">
+
+    <Button
+        android:id="@+id/Red"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/red"
+        android:background="@color/red500"
+        android:padding="25dp"/>
+
+    <Button
+        android:id="@+id/Orange"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/orange"
+        android:background="@color/orange500"
+        android:layout_centerHorizontal="true"
+        android:padding="25dp"/>
+
+    <Button
+        android:id="@+id/yellow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/yellow"
+        android:background="@color/yellow500"
+        android:layout_alignParentEnd="true"
+        android:padding="25dp"
+        tools:ignore="RelativeOverlap" />
+
+    <Button
+        android:id="@+id/green"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/green"
+        android:background="@color/green500"
+        android:layout_toStartOf="@+id/blue"
+        android:layout_centerVertical="true"
+        android:padding="25dp"
+        tools:ignore="RelativeOverlap" />
+
+    <Button
+        android:id="@+id/blue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/azul"
+        android:background="@color/blue500"
+        android:layout_centerInParent="true"
+        android:layout_margin="5dp"
+        android:padding="25dp"/>
+
+    <Button
+        android:id="@+id/indigo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/indigo"
+        android:background="@color/indigo500"
+        android:layout_toEndOf="@+id/blue"
+        android:layout_centerVertical="true"
+        android:padding="25dp"/>
+
+    <Button
+        android:id="@+id/pink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/violeta"
+        android:background="@color/purple200"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

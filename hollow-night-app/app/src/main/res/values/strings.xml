@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Hollow Kight</string>
+
+    <string name="ConfessoraJiji">Confessora Jiji</string>
+    <string name="TitleJiji">Confessora Jiji História</string>
+    <string name="HistóriaJiji">Os residentes de Dirthmouth por muito tempo ponderaram numa misteriosa porta de pedra na base da montanha após o seu cemitério. Sugestões foram feitas para abrir a porta com força, mas terríveis gemidos vindos do interior sempre mantiveram seus cidadãos longe. Encontrada atrás de uma porta trancada em Dirtmouth que requer uma Chave Simples para ser aberta. Em troca de Ovos Rançosos, Jiji oferece um serviço para se convocar a Sombra do Cavaleiro de qualquer seja o local em que esteja no mundo. Após convocar a Sombra, esta deve ser derrotada para recuperar a barra de ALMA do jogador, e qualquer Geo perdido. Este serviço é muito útil se a Sombra está em algum lugar de difícil acesso ou possui muito Geo dentro de si.</string>
+
+    <string name="PequenoTolo">Pequeno Tolo</string>
+    <string name="titletolo">Pequeno Tolo História</string>
+    <string name="HistóriaTolo">Encontrado acorrentado, pendurado de cabeça para baixo no Coliseu dos Tolos. Ele informa ao Cavaleiro as regras do Coliseu, e também recebe o pagamento para desbloquear cada uma das três Provações.</string>
+
+    <string name="ComePernas">Come Pernas</string>
+    <string name="titlepernas">Come Pernas história</string>
+    <string name="HistóriaPernas">Um Comerciante eremita encontrado nos Ermos Fúngicos, próximo da entrada para a Encruzilhada Esquecida. No primeiro encontro, ele oferece mostrar ao Cavaleiro "algo bonito" por Geo.png‍86. Se for pago, ele abrirá sua loja de Amuletos Frágeis, que quebram ao morrer. Amuletos quebrados podem ser reparados ao revisitá-lo. Se o jogador equipar a Insígnia do Defensor, ele irá vender e reparar os amuletos com um desconto de 25%.</string>
+
+    <string name="ZotePoderoso">Zote O Poderoso</string>
+    <string name="titlezote">Zote o Poderoso História</string>
+    <string name="HistóriaZote">Zote, o Poderoso, é um viajante de fora de Hallownest. Ele veio ao Reino para cumprir uma promessa; isso acaba sendo revelado como uma promessa de glória para si mesmo. </string>
+
+    <string name="Iselda">Iselda</string>
+    <string name="titleiselda">iselda História</string>
+    <string name="Históriaiselda">Iselda é a esposa de Cornifer. Ela aparecerá na sua loja em Dirtmouth após o primeiro encontro com Cornifer na Encruzilhada Esquecida Ela vende mapas e ferramentas de mapeamento, muitas vezes reclamando e desejando que Cornifer passasse mais tempo em casa e se preocupando com sua saúde e segurança. Seu diálogo com o Ferrão dos Sonhos indica que ela costumava ser uma guerreira ou aventureira, mas que pôs sua arma de lado e se mudou para se estabelecer com Cornifer em Dirtmouth.</string>
+
+    <string name="Hornet">Hornet</string>
+    <string name="titlehornet">Hornet História</string>
+    <string name="HistóriaHornet">Hornet é a misteriosa princesa-protetora das ruínas de Hallownest, uma personagem importante de Hollow Knight e protagonista de Hollow Knight: Silksong. Ela empunha uma agulha e linha com proezas mortais. Como chefe, Hornet aparece em duas formas, Hornet Protetora em Caminho Verde e Hornet Sentinel em Borda do Reino, que precisam ser vencidas para desbloquear sua entrada no Diário do Caçador.</string>
+
+    <string name="Sheo">Sheo</string>
+    <string name="titlesheo">Sheo História</string>
+    <string name="HistóriaSheo">Mestre do Ferrão Sheo é um dos três Mestres do Ferrão que ensinam Artes do Ferrão. A Arte do Ferrão assinatura de Sheo é o Grande Corte, que permite que seu mestre concentre energia em seu Ferrão para um grande e poderoso golpe.</string>
+
+    <string name="Cloth">Cloth</string>
+    <string name="titlecloth">Cloth história</string>
+    <string name="HistóriaCloth">Pano é um grande guerreiro cigarra. Ela partiu para Hallownest a fim de provar sua coragem ao derrotar criaturas poderosas. No entanto, sua natureza covarde muitas vezes assume o controle de sua bravata e leva a se esconder no subsolo para escapar de seus inimigos ou simplesmente dormir, roncando alto enquanto faz isso. Ela é motivada pela perspectiva de morrer em uma batalha épica e se juntar ao seu falecido Nola</string>
+
+
+
+    <string name="Sair">Sair</string>
+    <string name="logotipo">Logotipo</string>
+
+</resources>

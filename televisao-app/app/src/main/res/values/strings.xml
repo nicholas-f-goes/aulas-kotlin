@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Television</string>
+    <string name="yellow">Yellow</string>
+    <string name="blue">BLUE</string>
+    <string name="green">GREEN</string>
+    <string name="red">RED</string>
+    <string name="row_1">Row 1</string>
+    <string name="row_2">Row 2</string>
+    <string name="row_3">Row 3</string>
+    <string name="row_4">Row 4</string>
+</resources>

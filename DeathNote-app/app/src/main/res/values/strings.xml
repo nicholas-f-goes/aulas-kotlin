@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Death Note</string>
+    <string name="digite_a_seu_nome">Digite o seu nome</string>
+    <string name="digite_a_sua_idade">Digite a sua idade</string>
+    <string name="qual_será_a_sua_chance_de_ser_o_kira">VOCÊ SERA A PRÓXIMA VITIMA?.</string>
+    <string name="verificar">VERIFICAR</string>
+    <string name="sera_que_o_kira">Sera que é o Kira?</string>
+    <string name="Reticencias">...</string>
+</resources>

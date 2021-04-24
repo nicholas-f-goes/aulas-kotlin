@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تلفزيون</string>
+    <string name="row_1">سطر واحد</string>
+    <string name="row_2">السطر الثاني</string>
+    <string name="row_3">السطر الثالث</string>
+    <string name="row_4">السطر الرابع</string>
+    <string name="yellow">الأصفر</string>
+    <string name="blue">أزرق</string>
+    <string name="green">أخضر</string>
+    <string name="red">أحمر</string>
+</resources>

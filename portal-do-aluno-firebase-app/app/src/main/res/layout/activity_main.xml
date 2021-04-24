@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/white">
+
+<!--Modo Empurrador de mouse-->
+    <TextView
+        android:id="@+id/TimesheetText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="83dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/quadro_de_horarios"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/buttonTimesheet" />
+
+    <ImageButton
+        android:id="@+id/buttonTimesheet"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/calendar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/quadro_imagem" />
+
+    <ImageButton
+        android:id="@+id/buttonNotes"
+        android:background="@drawable/graduate"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="44dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/dados_imagem" />
+
+    <TextView
+        android:id="@+id/NotesText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/seus_dados"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="83dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/buttonNotes"/>
+
+    <ImageButton
+        android:id="@+id/buttonCertificates"
+        android:background="@drawable/certificate"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TimesheetText"
+        android:contentDescription="@string/certificados_imagem" />
+
+    <TextView
+        android:id="@+id/CertificatesText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/certificados"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="80dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/buttonCertificates"/>
+
+    <ImageButton
+        android:id="@+id/buttonBoletos"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="44dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/credit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/NotesText"
+        android:contentDescription="@string/boletos_imagem" />
+
+    <TextView
+        android:id="@+id/BoletosText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/boletos"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="98dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/buttonBoletos"/>
+
+    <ImageButton
+        android:id="@+id/buttonHistóric"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="44dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/memory"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BoletosText"
+        android:contentDescription="@string/historico_imagem" />
+
+    <TextView
+        android:id="@+id/HistóricText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hist_rico"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="98dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/buttonWork"/>
+
+    <ImageButton
+        android:id="@+id/buttonWork"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/teamwork"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/CertificatesText"
+        android:contentDescription="@string/vagas_imagem" />
+
+    <TextView
+        android:id="@+id/WorkText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/central_de_vagas"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="65dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/buttonWork"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

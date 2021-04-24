@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"la télé "</string>
+    <string name="red">rouge</string>
+    <string name="green">vert</string>
+    <string name="blue">bleu</string>
+    <string name="yellow">Jaune</string>
+    <string name="row_1">ligne un</string>
+    <string name="row_2">" ligne deux"</string>
+    <string name="row_3">ligne trois</string>
+    <string name="row_4">ligne quatre</string>
+</resources>

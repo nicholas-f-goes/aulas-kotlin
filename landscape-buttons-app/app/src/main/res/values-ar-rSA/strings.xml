@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Active Windows</string>
+    <string name="red">أحمر</string>
+    <string name="yellow">الأصفر</string>
+    <string name="orange">البرتقالي</string>
+    <string name="green">أخضر</string>
+    <string name="azul">"أزرق "</string>
+    <string name="indigo">النيلي</string>
+    <string name="rosa">الوردة</string>
+    <string name="activate_windows">تفعيل ويندوز</string>
+    <string name="violeta">البنفسجي</string>
+</resources>

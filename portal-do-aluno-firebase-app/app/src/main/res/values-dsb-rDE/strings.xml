@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Studentenportal</string>
+    <string name="put_your_email">geben sie ihre E-Mail Adresse ein</string>
+    <string name="login">" Einloggen"</string>
+    <string name="put_your_password">Geben Sie Ihr Passwort ein</string>
+    <string name="enter">Anmeldung</string>
+    <string name="looo_qi">Logo Qi</string>
+    <string name="developed_by_nicholas_goes">Entwickelt von: Nicholas Goes, Fabricio Veith</string>
+    <string name="android_version">Android Version ???</string>
+    <string name="app_description">Das IQ-Studentenportal ist ein System zum Anzeigen von Studenteninformationen wie Noten, Ausrutschern, Abwesenheiten usw. Nicholas Aktuelles Datum: 28.10.2020 - 11:14:00 Uhr</string>
+    <string name="register">Registrieren</string>
+    <string name="forgot_password">Passwort vergessen?</string>
+    <string name="quadro_de_horarios">Kalender</string>
+    <string name="seus_dados">" Deine Daten"</string>
+    <string name="boletos">Boletos</string>
+    <string name="hist_rico">Historisch</string>
+    <string name="central_de_vagas">Hauptbüro</string>
+    <string name="vagas_imagem">Stellenangebote</string>
+    <string name="historico_imagem">historisches Bild</string>
+    <string name="boletos_imagem">Boletos Bild</string>
+    <string name="certificados">Zertifikate</string>
+    <string name="certificados_imagem">" Zertifikate Bild"</string>
+    <string name="dados_imagem">Bilddaten</string>
+    <string name="quadro_imagem">" Bilderrahmen"</string>
+    <string name="ok">" OK"</string>
+    <string name="exemplo_visualiza_o_de_boletos">Beispiel Billet View</string>
+    <string name="digite_a_data_do_boleto">Geben Sie das Datum des Einzahlungsscheins ein</string>
+    <string name="digite_o_nome_do_boleto">Geben Sie den Billet-Namen ein</string>
+    <string name="baixar_o_pdf">" PDF Herunterladen"</string>
+    <string name="digite_o_nome_do_curso">Geben Sie den Namen des Kurses ein</string>
+    <string name="digite_a_data_do_certificado">Geben Sie das Datum des Zertifikats ein</string>
+    <string name="digite_a_quantidade_de_horas_do_curso">Geben Sie die Anzahl der Stunden des Kurses ein</string>
+    <string name="exemplo_de_certificados">Beispielzertifikate</string>
+    <string name="melhor_aluno_de_sempre">Studieren bei Qi seit 2019 !!!!</string>
+    <string name="nicholas">Nikolaus</string>
+    <string name="creditcardimage">Kreditkartenbild</string>
+    <string name="digite_o_valor_do_boleto">Geben Sie den Rechnungsbetrag ein</string>
+    <string name="em_manuten_o_para_sempre">" Für immer in Wartung."</string>
+    <string name="clique_no_bot_o_abaixo_para_carregar_o_hist_rico">Klicken Sie auf die Schaltfläche unten, um den Verlauf zu laden!</string>
+    <string name="visualize_o_historico">Historico anzeigen</string>
+</resources>

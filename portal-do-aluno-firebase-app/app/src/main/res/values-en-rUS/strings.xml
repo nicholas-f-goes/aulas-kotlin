@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student portal</string>
+    <string name="put_your_email">Enter your email</string>
+    <string name="login">Login</string>
+    <string name="put_your_password">Enter your password</string>
+    <string name="enter">Enter</string>
+    <string name="looo_qi">Logo QI</string>
+    <string name="developed_by_nicholas_goes">Developed by: Nicholas Goes, Fabricio Veith</string>
+    <string name="android_version">Android Version</string>
+    <string name="app_description">QI student portal, is a system designed to view student information such as grades, slips, absences etc. Nicholas Current date: 10/28/2020 - 11:14:00</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">" Forgot password?"</string>
+    <string name="quadro_de_horarios">Calendar</string>
+    <string name="seus_dados">Your data</string>
+    <string name="boletos">Boletos</string>
+    <string name="hist_rico">Historic</string>
+    <string name="central_de_vagas">Job Description</string>
+    <string name="vagas_imagem">Image Vacancies</string>
+    <string name="historico_imagem">Historic image</string>
+    <string name="boletos_imagem">Boletos image</string>
+    <string name="certificados">Certificates</string>
+    <string name="certificados_imagem">Certificates image</string>
+    <string name="dados_imagem">Image Data</string>
+    <string name="quadro_imagem">Picture Frame</string>
+    <string name="ok">Ok</string>
+    <string name="exemplo_visualiza_o_de_boletos">Example Billet View</string>
+    <string name="digite_a_data_do_boleto">Enter the date of the payment slip</string>
+    <string name="digite_o_nome_do_boleto">Enter the billet name</string>
+    <string name="baixar_o_pdf">"Download PDF "</string>
+    <string name="digite_o_nome_do_curso">Type the name of the course</string>
+    <string name="digite_a_data_do_certificado">Enter the date of the certificate</string>
+    <string name="digite_a_quantidade_de_horas_do_curso">Enter the number of hours of the course</string>
+    <string name="exemplo_de_certificados">Example Certificates</string>
+    <string name="melhor_aluno_de_sempre">" Studying at Qi since 2019 !!!!"</string>
+    <string name="nicholas">Nicholas</string>
+    <string name="creditcardimage">Credit Card Image</string>
+    <string name="digite_o_valor_do_boleto">Enter the billing amount</string>
+    <string name="em_manuten_o_para_sempre">In maintenance forever.</string>
+    <string name="clique_no_bot_o_abaixo_para_carregar_o_hist_rico">Click the button below to load the history!</string>
+    <string name="visualize_o_historico">" View Historico"</string>
+</resources>

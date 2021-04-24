@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cavaller buit</string>
+    <string name="Sair">" sortir"</string>
+    <string name="logotipo">" logotip"</string>
+    <string name="HistóriaCloth">Pano és un gran guerrer de cigales. Va marxar a Hallownest per demostrar el seu coratge en derrotar criatures poderoses. No obstant això, la seva naturalesa covarda sovint pren el control de la seva valentia i el porta a amagar-se sota terra per fugir dels enemics o simplement dormir, roncant fort mentre ho fa. Està motivada per la perspectiva de morir en una èpica batalla i unir-se a la seva difunta Nola</string>
+    <string name="titlecloth">Història del drap</string>
+    <string name="Cloth">Drap</string>
+    <string name="HistóriaSheo">Mestre do Ferrão Sheo és un dels tres mestres de Ferrão que imparteixen classes sobre Ferrão Arts. La firma Art of the Stinger de Sheo és la Gran Cort, que permet al seu amo concentrar energia en el seu Stinger per obtenir un gran i poderós cop.</string>
+    <string name="titlesheo">Història de Sheo</string>
+    <string name="HistóriaHornet">Hornet és la misteriosa princesa protectora de les ruïnes de Hallownest, un important personatge de Hollow Knight i protagonista de Hollow Knight: Silksong. Porta una agulla i un fil amb gestes mortals. Com a cap, Hornet apareix en dues formes, Hornet Protector a Green Path i Hornet Sentinel a Edge of the Kingdom, que cal superar per desbloquejar la seva entrada al Diari del caçador.</string>
+    <string name="Sheo">xoo</string>
+    <string name="titlehornet">" Història de Hornet"</string>
+    <string name="Hornet">Hornet</string>
+    <string name="Históriaiselda">Iselda és l\'esposa de Cornifer. Apareixerà a la seva botiga de Dirtmouth després del seu primer encontre amb Cornifer a la Forgotten Crossroads. Ven mapes i eines de mapatge, sovint queixant-se i desitjant que Cornifer passi més temps a casa i es preocupi per la seva salut i seguretat. El seu diàleg amb el Dream Stinger indica que solia ser una guerrera o aventurera, però que va deixar l\'arma i es va traslladar a establir-se amb Cornifer a Dirtmouth.</string>
+    <string name="Iselda">Iselda</string>
+    <string name="titleiselda">Història iselda</string>
+    <string name="HistóriaZote">Zote the Mighty és un viatger de fora de Hallownest. Va arribar al Regne per complir una promesa; això acaba revelant-se com una promesa de glòria a si mateix.</string>
+    <string name="titlezote">Zote la història poderosa</string>
+    <string name="ZotePoderoso">Zote el poderós</string>
+    <string name="HistóriaPernas">Un comerciant ermità trobat als residus de fongs, a prop de l’entrada de la cruïlla oblidada. A la primera reunió, li ofereix mostrar al Cavaller alguna cosa bella de Geo.png‍86. Si se’l paga, obrirà la seva botiga d’Amulets fràgils, que es trenca a la mort. Els amulets trencats es poden reparar tornant a visitar-lo. Si el jugador equipa la insígnia del defensor, vendrà i repararà els amulets amb un 25% de descompte.</string>
+    <string name="titlepernas">Veniu la història de les cames</string>
+    <string name="ComePernas">Menja potes</string>
+    <string name="HistóriaTolo">Trobat en cadenes, penjat de cap per avall al Coliseu dels necis. Informa el cavaller de les regles del Coliseu i també rep pagaments per desbloquejar cadascun dels tres judicis.</string>
+    <string name="titletolo">ximple História</string>
+    <string name="PequenoTolo">ximple</string>
+    <string name="HistóriaJiji">Els residents a Dirthmouth han reflexionat durant molt de temps sobre una misteriosa porta de pedra a la base de la muntanya després del seu cementiri. Es van fer suggeriments per obrir la porta amb força, però els terribles gemecs del camp sempre han allunyat els seus ciutadans. Es troba darrere d’una porta tancada a Dirtmouth que requereix una clau simple per obrir-la. A canvi d’ous rancis, Jiji ofereix un servei per convocar l’ombra del cavaller des d’on sigui al món. Després de convocar l\'Ombra, s\'ha de derrotar per recuperar la barra ÀNIMA del jugador i qualsevol Geo perdut. Aquest servei és molt útil si l’Ombra és en algun lloc de difícil accés o té molta Geo al seu interior.</string>
+    <string name="ConfessoraJiji">Confessora Jiji</string>
+    <string name="TitleJiji">Història del confessor Jiji</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activar Windows</string>
+    <string name="indigo">Indigo</string>
+    <string name="yellow">" Amarillo"</string>
+    <string name="red">Rojo</string>
+    <string name="orange">" Naranja"</string>
+    <string name="green">" Verde"</string>
+    <string name="azul">Azul</string>
+    <string name="rosa">"Rosa "</string>
+    <string name="activate_windows">Activar Windows</string>
+    <string name="violeta">Violeta</string>
+</resources>

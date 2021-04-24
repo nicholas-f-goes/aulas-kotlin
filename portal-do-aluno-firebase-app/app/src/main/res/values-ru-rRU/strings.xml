@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Студенческий портал</string>
+    <string name="put_your_email">Введите адрес электронной почты</string>
+    <string name="login">Авторизоваться</string>
+    <string name="put_your_password">Введите ваш пароль</string>
+    <string name="enter">Войти</string>
+    <string name="looo_qi">" Логотип Ци"</string>
+    <string name="developed_by_nicholas_goes">Разработчики: Николас Гоес, Фабрицио Вейт</string>
+    <string name="android_version">Версия Android ???</string>
+    <string name="app_description">Студенческий портал IQ - это система, предназначенная для просмотра информации о студентах, такой как оценки, ведомости, пропуски и т. Д. Николай Сейчас дата: 28.10.2020 - 11:14:00</string>
+    <string name="register">регистр</string>
+    <string name="forgot_password">" забыл пароль?"</string>
+    <string name="quadro_de_horarios">Календарь</string>
+    <string name="seus_dados">" Ваши данные"</string>
+    <string name="boletos">" Boletos"</string>
+    <string name="hist_rico">Исторический</string>
+    <string name="central_de_vagas">" Центральный офис"</string>
+    <string name="vagas_imagem">Имидж Вакансии</string>
+    <string name="historico_imagem">исторический образ</string>
+    <string name="boletos_imagem">Boletos изображение</string>
+    <string name="certificados">" Сертификаты"</string>
+    <string name="certificados_imagem">" Изображение сертификатов"</string>
+    <string name="dados_imagem">Данные изображения</string>
+    <string name="quadro_imagem">Фоторамка</string>
+    <string name="ok">ОК</string>
+    <string name="exemplo_visualiza_o_de_boletos">" Пример вида заготовки"</string>
+    <string name="digite_a_data_do_boleto">Введите дату платежного поручения</string>
+    <string name="digite_o_nome_do_boleto">Введите название заготовки</string>
+    <string name="baixar_o_pdf">Скачать PDF</string>
+    <string name="digite_o_nome_do_curso">введите название курса</string>
+    <string name="digite_a_data_do_certificado">" введите дату сертификата"</string>
+    <string name="digite_a_quantidade_de_horas_do_curso">Введите количество часов курса</string>
+    <string name="exemplo_de_certificados">Примеры сертификатов</string>
+    <string name="melhor_aluno_de_sempre">" Учусь в Qi с 2019 года !!!!"</string>
+    <string name="nicholas">Николай</string>
+    <string name="creditcardimage">Изображение кредитной карты</string>
+    <string name="digite_o_valor_do_boleto">Введите сумму счета</string>
+    <string name="em_manuten_o_para_sempre">В обслуживании навсегда.</string>
+    <string name="clique_no_bot_o_abaixo_para_carregar_o_hist_rico">" Нажмите кнопку ниже, чтобы загрузить историю!"</string>
+    <string name="visualize_o_historico">Посмотреть Историко</string>
+</resources>

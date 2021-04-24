@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/buttonSheo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="45dp"
+        android:background="@drawable/sheo"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/buttonZotePoderoso"/>
+
+    <Button
+        android:id="@+id/buttonHornet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/hornet"
+        android:layout_toEndOf="@+id/buttonSheo"
+        android:layout_above="@id/buttonIselda"/>
+
+    <Button
+        android:id="@+id/buttonPequenoTolo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/pequenotolo"
+        android:layout_toEndOf="@+id/buttonHornet"
+        android:layout_above="@id/buttonConfessoraJiji"/>
+
+    <Button
+        android:id="@+id/buttonComePernas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/comepernas"
+        android:layout_toEndOf="@+id/buttonPequenoTolo"
+        android:layout_above="@+id/buttonCloth"/>
+
+    <Button
+        android:id="@+id/buttonZotePoderoso"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/zote"
+        android:layout_marginStart="45dp"
+        android:layout_alignParentBottom="true"/>
+
+    <Button
+        android:id="@+id/buttonIselda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/iselda"
+        android:layout_toEndOf="@+id/buttonZotePoderoso"
+        android:layout_alignParentBottom="true"/>
+
+    <Button
+        android:id="@+id/buttonConfessoraJiji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/confessorajiji"
+        android:layout_toEndOf="@+id/buttonIselda"
+        android:layout_alignParentBottom="true"/>
+
+    <Button
+        android:id="@+id/buttonCloth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/cloth"
+        android:layout_toEndOf="@+id/buttonConfessoraJiji"
+        android:layout_alignParentBottom="true"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="438dp"
+        android:layout_height="114dp"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/lhn"
+        android:contentDescription="@string/logotipo"/>
+
+</RelativeLayout>

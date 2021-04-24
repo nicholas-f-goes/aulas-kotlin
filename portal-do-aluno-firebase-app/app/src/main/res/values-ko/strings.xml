@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">학생 포털</string>
+    <string name="put_your_email">" 이메일을 입력하세요"</string>
+    <string name="login">로그인</string>
+    <string name="put_your_password">" 비밀번호를 입력하세요"</string>
+    <string name="enter">로그인</string>
+    <string name="looo_qi">로고 Qi</string>
+    <string name="developed_by_nicholas_goes">개발자 : Nicholas Goes, Fabricio Veith</string>
+    <string name="android_version">" Android 버전 ???"</string>
+    <string name="app_description">IQ 학생 포털은 성적, 전표, 결석 등과 같은 학생 정보를 볼 수 있도록 설계된 시스템입니다. Nicholas 현재 날짜 : 2020 년 10 월 28 일-11:14:00</string>
+    <string name="register">" 레지스터"</string>
+    <string name="forgot_password">비밀번호를 잊으 셨나요?</string>
+    <string name="quadro_de_horarios">달력</string>
+    <string name="seus_dados">" 귀하의 데이터"</string>
+    <string name="boletos">Boletos</string>
+    <string name="hist_rico">역사적인</string>
+    <string name="central_de_vagas">중앙 사무실</string>
+    <string name="vagas_imagem">이미지 공석</string>
+    <string name="historico_imagem">역사적인 이미지</string>
+    <string name="boletos_imagem">" boletos 이미지"</string>
+    <string name="certificados">" 인증서"</string>
+    <string name="certificados_imagem">인증서 이미지</string>
+    <string name="dados_imagem">이미지 데이터</string>
+    <string name="quadro_imagem">사진 프레임</string>
+    <string name="ok">" 확인"</string>
+    <string name="exemplo_visualiza_o_de_boletos">" 빌렛보기 예"</string>
+    <string name="digite_a_data_do_boleto">" 지불 전표 날짜를 입력하십시오."</string>
+    <string name="digite_o_nome_do_boleto">빌릿 이름 입력</string>
+    <string name="baixar_o_pdf">" PDF 다운로드"</string>
+    <string name="digite_o_nome_do_curso">" 코스 이름 입력"</string>
+    <string name="digite_a_data_do_certificado">증명서의 날짜를 입력하십시오</string>
+    <string name="digite_a_quantidade_de_horas_do_curso">코스 시간을 입력하세요</string>
+    <string name="exemplo_de_certificados">인증서 예</string>
+    <string name="melhor_aluno_de_sempre">" 2019 년부터 치에서 공부하고 있습니다 !!!!"</string>
+    <string name="nicholas">니콜라스</string>
+    <string name="creditcardimage">" 신용 카드 이미지"</string>
+    <string name="digite_o_valor_do_boleto">청구 금액 입력</string>
+    <string name="em_manuten_o_para_sempre">영원히 유지.</string>
+    <string name="clique_no_bot_o_abaixo_para_carregar_o_hist_rico">히스토리를로드하려면 아래 버튼을 클릭하세요!</string>
+    <string name="visualize_o_historico">" Historico보기"</string>
+</resources>

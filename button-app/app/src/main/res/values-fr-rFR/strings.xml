@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">boutons triangulés</string>
+    <string name="rosa">Rose</string>
+    <string name="indigo">indigo</string>
+    <string name="azul">Bleu</string>
+    <string name="verde">vert</string>
+    <string name="amarelo">Jaune</string>
+    <string name="laranja">Orange</string>
+    <string name="vermelho">rouge</string>
+    <string name="ativar_o_windows">Activer les fenêtres</string>
+</resources>

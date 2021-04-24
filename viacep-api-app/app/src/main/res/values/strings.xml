@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VIACEP is nothing</string>
+    <string name="find_zipcode">Find ZipCode</string>
+    <string name="type_the_zipcode">Type the zipcode</string>
+    <string name="find_zipcode_by_address">Find Zipcode By address</string>
+    <string name="viacep_is_nothing">VIACEP is nothing</string>
+</resources>

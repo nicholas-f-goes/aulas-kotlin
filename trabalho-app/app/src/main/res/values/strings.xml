@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora de Idade</string>
+    <string name="edittext_name">Digite o seu nome</string>
+    <string name="editTextAge">Digite a sua Idade</string>
+    <string name="button_send_object">Entrar</string>
+    <string name="calcule_em_meses">Calcule Sua Idade em Meses</string>
+    <string name="calcule_em_horas">Calcule Sua Idade em Horas</string>
+    <string name="calcule_em_minutos">Calcule Sua Idade em Minutos</string>
+    <string name="clique_no_bot_o_para_calcular">Clique no botão para calcular:</string>
+    <string name="digite_a_sua_idade_ap_s_clique_no_bot_o_desejado">Digite a sua idade após clique no botão desejado!!</string>
+    <string name="digite_o_seu_ano_de_nascimento">Digite o seu ano de nascimento</string>
+    <string-array name="spinner_nota">
+        <item>Selecione A Nota</item>
+        <item>1 Estrela</item>
+        <item>2 Estrela</item>
+        <item>3 Estrela</item>
+        <item>4 Estrela</item>
+        <item>5 Estrela</item>
+        <item>Almondega</item>
+    </string-array>
+</resources>

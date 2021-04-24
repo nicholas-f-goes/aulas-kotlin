@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Botoes Triangulados</string>
+    <string name="rosa">Rosa</string>
+    <string name="indigo">Indigo</string>
+    <string name="azul">Azul</string>
+    <string name="verde">Verde</string>
+    <string name="amarelo">Amarelo</string>
+    <string name="laranja">laranja</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="ativar_o_windows">Ativar o Windows</string>
+</resources>

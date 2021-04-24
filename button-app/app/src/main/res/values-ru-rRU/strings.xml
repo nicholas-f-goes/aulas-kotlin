@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Триангулированные кнопки</string>
+    <string name="rosa">"Роза "</string>
+    <string name="indigo">индиго</string>
+    <string name="azul">синий</string>
+    <string name="verde">Зеленый</string>
+    <string name="amarelo">желтый</string>
+    <string name="laranja">оранжевый</string>
+    <string name="vermelho">красный</string>
+    <string name="ativar_o_windows">активировать окна</string>
+</resources>

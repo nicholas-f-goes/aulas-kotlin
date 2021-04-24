@@ -1,0 +1,47 @@
+<resources>
+    <!--Nicholas-->
+    <string name="app_name">Portal do Aluno</string>
+    <string name="title_activity_fullscreen" translatable="false">FullscreenActivity</string>
+    <string name="dummy_button" translatable="false">Dummy Button</string>
+    <string name="dummy_content" translatable="false">DUMMY\nCONTENT</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="put_your_email">digite o seu email</string>
+    <string name="login">Login</string>
+    <string name="put_your_password">digite a sua senha</string>
+    <string name="enter">Entrar</string>
+    <string name="looo_qi">Logo Qi</string>
+    <string name="developed_by_nicholas_goes">Desenvolvido por: Nicholas Goes, Fabricio Veith</string>
+    <string name="android_version">Versão do Android 9.0</string>
+    <string name="app_description">Portal do aluno da QI, é um sistema feito para visualização das informações do aluno como nota, boletos, faltas etc. Nicholas Data atual: 28/10/2020 – 11:14:00</string>
+    <string name="register">Registrar</string>
+    <string name="forgot_password">Esqueceu a senha?</string>
+    <string name="quadro_de_horarios">Calendario</string>
+    <string name="seus_dados">Seus dados</string>
+    <string name="boletos">Boletos</string>
+    <string name="hist_rico">Histórico</string>
+    <string name="central_de_vagas">Central de Vagas</string>
+    <string name="vagas_imagem">Vagas Imagem</string>
+    <string name="historico_imagem">historico imagem</string>
+    <string name="boletos_imagem">boletos imagem</string>
+    <string name="certificados">Certificados</string>
+    <string name="certificados_imagem">Certificados imagem</string>
+    <string name="dados_imagem">Dados Imagem</string>
+    <string name="quadro_imagem">Quadro Imagem</string>
+    <string name="ok">OK</string>
+    <string name="exemplo_visualiza_o_de_boletos">Exemplo Visualização de boletos</string>
+    <string name="digite_a_data_do_boleto">Digite a data do boleto</string>
+    <string name="digite_o_nome_do_boleto">Digite o nome do boleto</string>
+    <string name="baixar_o_pdf">Baixar o PDF</string>
+    <string name="digite_o_nome_do_curso">digite o nome do curso</string>
+    <string name="digite_a_data_do_certificado">digite a data do certificado</string>
+    <string name="digite_a_quantidade_de_horas_do_curso">Digite a quantidade de horas do curso</string>
+    <string name="exemplo_de_certificados">Exemplo de Certificados</string>
+    <string name="melhor_aluno_de_sempre">Estudando na Qi desde 2019!!!!</string>
+    <string name="nicholas">Nicholas</string>
+    <string name="creditcardimage">Imagem do Cartão de Credito</string>
+    <string name="digite_o_valor_do_boleto">Digite o valor do boleto</string>
+    <string name="em_manuten_o_para_sempre">Em manutenção para sempre.</string>
+    <string name="clique_no_bot_o_abaixo_para_carregar_o_hist_rico">Clique no botão abaixo para carregar o histórico!</string>
+    <string name="visualize_o_historico">Visualize o Historico</string>
+
+</resources>

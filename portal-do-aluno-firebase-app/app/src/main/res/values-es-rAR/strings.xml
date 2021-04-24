@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portal do Aluno</string>
+    <string name="put_your_email">" Introduce tu correo electrónico"</string>
+    <string name="login">" Iniciar sesión"</string>
+    <string name="put_your_password">" Ingresa tu contraseña"</string>
+    <string name="enter">Iniciar sesión</string>
+    <string name="looo_qi">Logotipo de IQ</string>
+    <string name="developed_by_nicholas_goes">Desarrollado por: Nicholas Goes, Fabricio Veith</string>
+    <string name="android_version">" Versión de Android ???"</string>
+    <string name="app_description">El portal de estudiantes IQ, es un sistema diseñado para ver información de los estudiantes, como calificaciones, resbalones, ausencias, etc. Nicholas Fecha actual: 28/10/2020 - 11:14:00</string>
+    <string name="register">Registrarse</string>
+    <string name="forgot_password">" olvido la contraseña?"</string>
+    <string name="quadro_de_horarios">Calendario</string>
+    <string name="seus_dados">Sus datos</string>
+    <string name="boletos">" Boletos"</string>
+    <string name="hist_rico">" Histórico"</string>
+    <string name="central_de_vagas">" Oficina central"</string>
+    <string name="vagas_imagem">" Vacantes de imagen"</string>
+    <string name="historico_imagem">imagen histórica</string>
+    <string name="boletos_imagem">imagen de boletos</string>
+    <string name="certificados">Certificados</string>
+    <string name="certificados_imagem">Imagen de certificados</string>
+    <string name="dados_imagem">" Datos de imagen"</string>
+    <string name="quadro_imagem">Marco</string>
+    <string name="ok">Okay</string>
+    <string name="exemplo_visualiza_o_de_boletos">Ejemplo de vista de palanquilla</string>
+    <string name="digite_a_data_do_boleto">Ingrese la fecha del recibo de pago</string>
+    <string name="digite_o_nome_do_boleto">" Ingrese el nombre de la palanquilla"</string>
+    <string name="baixar_o_pdf">Descargar PDF</string>
+    <string name="digite_o_nome_do_curso">escribe el nombre del curso</string>
+    <string name="digite_a_data_do_certificado">ingrese la fecha del certificado</string>
+    <string name="digite_a_quantidade_de_horas_do_curso">Ingrese el número de horas del curso</string>
+    <string name="exemplo_de_certificados">Certificados de ejemplo</string>
+    <string name="melhor_aluno_de_sempre">" Estudiando en Qi desde 2019 !!!!"</string>
+    <string name="nicholas">Nicolás</string>
+    <string name="creditcardimage">" Imagen de tarjeta de crédito"</string>
+    <string name="digite_o_valor_do_boleto">" Ingrese el monto de facturación"</string>
+    <string name="em_manuten_o_para_sempre">" En mantenimiento para siempre."</string>
+    <string name="clique_no_bot_o_abaixo_para_carregar_o_hist_rico">Haga clic en el botón de abajo para cargar el historial.</string>
+    <string name="visualize_o_historico">Ver Historico</string>
+</resources>

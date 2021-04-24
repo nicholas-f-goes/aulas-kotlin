@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/black">
+
+    <LinearLayout
+        android:id="@+id/Linear1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+    <Button
+        android:id="@+id/red"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/red"
+        android:background="@color/red500"
+        android:paddingBottom="270dp"
+        tools:ignore="ButtonStyle" />
+    <Button
+        android:id="@+id/green"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/green"
+        android:background="@color/green500"
+        android:paddingBottom="270dp"
+        tools:ignore="ButtonStyle" />
+    <Button
+        android:id="@+id/blue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/blue"
+        android:background="@color/blue500"
+        android:paddingBottom="270dp"
+        tools:ignore="ButtonStyle" />
+
+        <Button
+            android:id="@+id/yellow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/yellow500"
+            android:layout_weight="1"
+            android:paddingBottom="270dp"
+            android:text="@string/yellow"
+            tools:ignore="ButtonStyle" />
+
+    </LinearLayout>
+    <TextView
+        android:id="@+id/row1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/row_1"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/white"
+        android:layout_centerVertical="true"/>
+
+    <TextView
+        android:id="@+id/row2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/row_2"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/white"
+        android:layout_below="@+id/row1"/>
+
+    <TextView
+        android:id="@+id/row3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/row_3"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/white"
+        android:layout_below="@+id/row2"/>
+
+    <TextView
+        android:id="@+id/row4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/row_4"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/white"
+        android:layout_below="@+id/row3"/>
+
+
+
+</RelativeLayout>
